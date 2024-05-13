@@ -1,2 +1,2 @@
 # TeachYOUth
-## Survey Taking tool for Organisations working with children
+## Survey taking tool for organisations working with children
